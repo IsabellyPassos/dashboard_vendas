@@ -1,2 +1,2 @@
-# dashboard_vendas
-Dashboard construído utilizando o app Streamlit
+# Dashboard de vendas
+Projeto de dashboard de vendas construído utilizando o aplicativo streamlit.
